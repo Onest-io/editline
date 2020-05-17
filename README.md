@@ -4,7 +4,7 @@ Editline
 
 
 Table of Contents
------------------
+-------------------
 
 * [Introduction](#introduction)
 * [API](#api)
