@@ -14,7 +14,7 @@ Table of Contents
 
 
 Introduction
-------------
+----------------
 
 This is a small [line editing][]  library.  It can be linked into almost
 any program to  provide command line editing and  history functions.  It
